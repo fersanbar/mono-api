@@ -22,6 +22,6 @@ jobs:
         run: docker tag fersanbar/mono-api:${{ github.sha }} fersanbar/mono-api:latest
 
       - name: Push Docker Image
-        run: | 
-          docker push fersanbar/fersanbar/mono-api:${{ github.sha }}
-          docker push fersanbar/fersanbar/mono-api:latest
+        run: |
+          docker push fersanbar/mono-api:${{ github.sha }}
+          docker push fersanbar/mono-api:latest
