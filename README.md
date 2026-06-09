@@ -1,6 +1,6 @@
-# Incident-Api 🚨
+# Mono API 🗺️
 
-API REST para la gestión y seguimiento de incidentes. Permite registrar, consultar y administrar incidentes de manera automatizada, con notificaciones por correo electrónico y tareas programadas.
+API REST para el monitoreo y mapeo de datos. Servicio backend que gestiona información de forma centralizada, con soporte para tareas automáticas y notificaciones por correo.
 
 ## 🛠 Tecnologías
 
